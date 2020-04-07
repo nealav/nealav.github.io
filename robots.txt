@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://nealav.github.io/sitemap.xml
-Host: https://nealav.github.io
+Sitemap: https://www.nealv.me/sitemap.xml
+Host: https://www.nealv.me
